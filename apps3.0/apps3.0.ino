@@ -6,10 +6,10 @@
 // ═══════════════════════════════════════════
 //         CHANGE ONLY THESE 3 LINES
 // ═══════════════════════════════════════════
-#define WIFI_SSID "Maruf Hossain"                                                // your WiFi name
-#define WIFI_PASSWORD "01966365888"                                              // your WiFi password
-#define API_KEY "AIzaSyBb8-foiqLQg3o-7rGHmFHBX4ZE5f8VW00"                        // your Firebase API key
-#define DATABASE_URL "https://servo-control-ed374-default-rtdb.firebaseio.com/"  // your Firebase URL
+#define WIFI_SSID ""                                                // your WiFi name
+#define WIFI_PASSWORD ""                                              // your WiFi password
+#define API_KEY ""                        // your Firebase API key
+#define DATABASE_URL ""  // your Firebase URL
 // ═══════════════════════════════════════════
 //         DO NOT CHANGE BELOW THIS
 // ═══════════════════════════════════════════
