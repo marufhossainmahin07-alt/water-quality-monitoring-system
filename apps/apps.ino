@@ -3,7 +3,7 @@
 #include <WiFiClientSecure.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "Ma***********";
+const char* ssid = "***********";
 const char* password = "******************";
 
 // 🔥 Use correct Firebase URL
