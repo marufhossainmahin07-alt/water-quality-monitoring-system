@@ -9,12 +9,12 @@
 #include <addons/RTDBHelper.h>
 
 // -------- WIFI --------
-#define WIFI_SSID "Maruf Hossain"
-#define WIFI_PASSWORD "01966365888"
+#define WIFI_SSID "***********************"
+#define WIFI_PASSWORD "**********************"
 
 // -------- FIREBASE --------
-#define API_KEY "AIzaSyBb8-foiqLQg3o-7rGHmFHBX4ZE5f8VW00"
-#define DATABASE_URL "https://servo-control-ed374-default-rtdb.firebaseio.com/"
+#define API_KEY "*********************"
+#define DATABASE_URL "************************************"
 
 // Firebase objects
 FirebaseData fbdo;
