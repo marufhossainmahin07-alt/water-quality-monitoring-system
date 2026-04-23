@@ -5,8 +5,8 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "realme C11 2021";
-char pass[] = "00000000";
+char ssid[] = " *********** ";
+char pass[] = "00000000000000";
 
 HardwareSerial mySerial(2);
 
